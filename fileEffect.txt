@@ -1,0 +1,22 @@
+1.build: webpack 配置文件夹;
+2.ci: jenkins配置;
+3.config: webpack配置；
+4.node_modules: 依赖包;
+5.src:项目开发代码;
+6.static: 第三方静态资源;
+7.babelrc:babel转码，es6->es5;
+8.browserslistrc:浏览器兼容;
+9.commitlintrc:代码提交风格与规范; 
+10.editorconfig:编辑器的配置;
+11.eslintignore:配置某些文件不做语法检查;
+12.eslintrc: eslint配置文件,定义代码编写风格,检测代码质量;
+13.gitignore:git仓促忽略上传文件;
+14.postcssrc:css浏览器前缀兼容;
+15.prettierrc:规范统一代码风格;
+16.CHANGELOG:代码提交记录;
+17.favicon.ico:浏览器标签图标;
+18.index.html:承载页面;
+19.package-lock.json:锁定安装时的包的版本号，保证其他人也一致；
+20.package.json:项目启动及依赖包;
+20.READ.md:项目介绍;
+21.yarn.lock:锁定依赖项的版本;
